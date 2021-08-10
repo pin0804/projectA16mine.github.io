@@ -150,7 +150,7 @@ img:hover {
 }
 
 .button span:after {
-  content: "\00bb";
+  content: '\00bb';
   color: #ffffff;
   position: absolute;
   opacity: 0;
